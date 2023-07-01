@@ -1,4 +1,3 @@
-# This Is a Repo With examples for each React Hook
+# This Is a Repo With examples for each React Hooks
 
-## This was made in the following youtube tutorial: [React Hooks Explained](https://youtu.be/LlvBzyy-558)
 
